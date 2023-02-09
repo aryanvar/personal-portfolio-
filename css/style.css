@@ -454,6 +454,12 @@ a{
     margin-top: 20px;
 
 }
+.html5-icon {
+    font-size: 62px;
+  }
+.css3-icon{
+    font-size: 50px;
+  }
 
 .project h4{
     height: 28px;
@@ -631,6 +637,12 @@ a{
     text-decoration: none;
 }
 
+.align-center p{
+    align-items: center;
+    margin: 0 auto;
+    width: 50%;
+    
+}
 /* Footer section styling*/
 
 
@@ -668,3 +680,4 @@ a{
     pointer-events: auto;
     bottom: 30px;
 }
+
