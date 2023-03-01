@@ -101,7 +101,8 @@ section{
     justify-content: space-between;
     align-items: center;
     z-index: 999;
-    background-color:#003865;
+    background-color:#393E46;
+
 }
 
 .navbar .sticky{
@@ -541,6 +542,10 @@ a{
     font-size: 14px;
     color: #a9adb8;
 
+}
+
+.text{
+    margin: 0px;
 }
 
 /* .contact .contact-content .right .links{
